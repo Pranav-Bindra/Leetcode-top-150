@@ -1,2 +1,3 @@
-# Leetcode-top-150
+# Leetcode-top-75
+
 Just practising leetcode questions
